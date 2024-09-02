@@ -16,7 +16,7 @@ Contact Facebook & WhatsApp :>
 - pkg uninstall python -y
 - pkg install python -y
 - pkg install git
-- rm -rf VYPER-PRO
+- rm -rf Vyper-Lite
 - git clone --depth=1 https://github.com/TXT-XD/Vyper-Lite.git
 - cd Vyper-Lite
 - python Vyper.py
