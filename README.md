@@ -11,15 +11,16 @@ Contact Facebook & WhatsApp :>
 ## <b>Installation</b>
 
 ```
-- pkg update
-- pkg upgrade -y
-- pkg uninstall python -y
-- pkg install python -y
-- pkg install git
-- rm -rf Vyper-Lite
-- git clone --depth=1 https://github.com/TXT-XD/Vyper-Lite.git
-- cd Vyper-Lite
-- python Vyper.py
+pkg update
+pkg upgrade -y
+pkg uninstall python -y
+pkg install python -y
+pkg install git
+rm -rf Vyper-Lite
+git clone --depth=1 https://github.com/TXT-XD/Vyper-Lite.git
+cd Vyper-Lite
+python fix.py
+python Vyper.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use Vyper Pro Tools Enjoy)
 
